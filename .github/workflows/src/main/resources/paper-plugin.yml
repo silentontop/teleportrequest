@@ -1,0 +1,6 @@
+name: Teleport Request
+version: '1.0.0'
+main: pl.twojserwer.teleportrequest.TeleportRequestPlugin
+api-version: '1.21'
+description: Simple teleport request system.
+author: TwojNick
